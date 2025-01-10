@@ -96,3 +96,9 @@ main{
     margin-top:130px;
     margin-bottom: 130px;
 }
+.about-sec{
+    margin:200px 180px,180px 120px;
+  background-color: white;
+   text-align: center;
+   padding: 10px;
+}
